@@ -1,0 +1,17 @@
+company,job,degree,salary_more_100k
+google,sale_exective,bachelor,0
+google,sale_exective,master,0
+google,buisness_manager,bachelor,1
+google,buisness_manager,master,1
+google,computer programer,bachelor,0
+google,computer programer,master,1
+abc pharma,sale_exective,master,0
+abc pharma,computer programer,bachelor,0
+abc pharma,buisness_manager,bachelor,0
+abc pharma,buisness_manager,master,1
+facebook,sale_exective,bachelor,1
+facebook,sale_exective,master,1
+facebook,buisness_manager,bachelor,1
+facebook,buisness_manager,master,1
+facebook,computer programer,bachelor,1
+facebook,computer programer,master,1
